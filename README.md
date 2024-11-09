@@ -7,12 +7,15 @@ Accuracy Estimation and Analysis of The Model Developed on The Faster R-CNN Evol
 Authors
 
 •	Okan Yılmaz
+
 Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
 
 •	Hakan Aydın
+
 Department of Computer Engineering, Faculty of Engineering, Istanbul Topkapı University, Istanbul, Turkey
 
 •	Ali Çetinkaya
+
 Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey
 
 For Correspondence: alcetinkaya@gelisim.edu.tr
