@@ -27,7 +27,7 @@ Article Information
 
 •	Full Article Access Link: [Faster R-CNN Evrişimsel sinir ağı üzerinde geliştirilen modelin derin öğrenme yöntemleri ile doğruluk tahmini ve analizi: Nesne Tespiti Uygulaması](https://dergipark.org.tr/en/pub/ejosat/article/753896)
 
-Özet
+Özet:
 
 Nesne tanıma, görüntü işleme, tahmin etme gibi birçok konuya ev sahipliği yapan derin öğrenme gün geçtikçe insanoğlunun ihtiyacı haline gelmeye başlamıştır. Bu çalışmada derin öğrenme teknikleri kullanılarak nesne tanıma işlemi yaptırılmaktadır. Faster R-CNN (Faster Region Based Convolutional Networks) ağı kullanılarak geliştirilen ve çalışma içerisinde 502 adet görüntü bulunan “Bardak” veri seti oluşturulmuştur. Oluşturulan bu veri setinin bir kısmı test için diğer bir kısmını ise eğitim yaptırmak amacıyla ikiye ayrılarak kullanılmıştır. Farklı deneyler yaparak bardağı hangi şekillerde tanıyıp, tanıyamadığını gözlemledikten sonra doğruluk tahmin oranını nasıl arttırılabileceği konusunda önerilerde bulunulmuştur. Nesne tanıma yaparken fotoğraf, video ve anlık olarak görüntü alabileceğimiz web cam seçeneklerinin bulunduğu ara yüz tasarlanmıştır. Ara yüz tasarlanırken Python kütüphanesi olan Tkinter kütüphanesinden yararlanılmıştır. Nesne tespiti yapılacak olan görüntü, yapılan işlemlerin ardından eğer fotoğraf ise nesnenin üzeri çerçeve haline alınarak yüzde kaç oranında doğru tahmin ettiği yazılı olan bir fotoğraf kaydedilmektedir. Nesne tespiti yapılacak olan görüntü video ise video oynatılırken video üzerindeki nesne çerçeve halinde yüzde kaç oranında tahmin ettiği yazılı olacak, web cam ise anlık olarak görüntü içerisindeki nesneyi çerçeve içerisine alarak ekranda göstermeye devam edecektir.
 
@@ -35,5 +35,11 @@ Object Detection API kullanılarak gerçekleştirilen bu çalışmada, farklı e
 
 Anahtar Kelimeler: Faster R-CNN, Nesne tanıma, Object Detection API
 
+Abstract:
+
+Deep learning, which is home to many subjects such as object recognition, image processing, forecasting, has become a human need. In this study, object recognition is performed using deep learning techniques. Faster R-CNN (Faster Region Based Convolutional Networks) Network has developed and 502 images in the study “Cup” data set has created. Some of this data set has used for testing and the other for training. After observing the ways in which the glass can be recognized and not recognized by conducting different experiments, suggestions have made on how to increase the accuracy prediction rate. The Python library Tkinter library has used when designing the interface. The image that is to be detected is taken into a frame after the operations done, and a photograph is recorded with the correct estimate of the percentage of the image. If the video is the image that will be detected, the video will be displayed on the screen, while the video will be played, and the web cam will instantly display the object in the image in the frame.
+In this study, which has performed using Object Detection API, we tried to find the epoch value that trains the model with different epoch values and makes the most accurate predictions. It has conducted using deep learning and Faster R-CNN on the data set generated over 18 separate experiments performed. In order to find the most successful prediction rate in the training process, experiments has conducted with different epoch numbers. A total of 100.000 Epoch's has achieved as a result of the education and the result of success is 0.97835 and loss ratio is 0.02165.
+
+Keywords: Faster R-CNN, Object detection, Object Detection API
 
 
