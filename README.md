@@ -58,4 +58,4 @@ License:
 
 This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
 
-
+![alternatif metin](https://github.com/acetinkaya/Faster-R-CNN-ile-Derin-Ogrenme-Tabanli-Nesne-Tespiti-ve-Dogruluk-Analizi/blob/main/FasterR-CNN.png)
