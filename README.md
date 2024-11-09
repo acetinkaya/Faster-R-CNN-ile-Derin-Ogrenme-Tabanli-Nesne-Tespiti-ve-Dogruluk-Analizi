@@ -41,8 +41,21 @@ Anahtar Kelimeler: Faster R-CNN, Nesne tanıma, Object Detection API
 Abstract:
 
 Deep learning, which is home to many subjects such as object recognition, image processing, forecasting, has become a human need. In this study, object recognition is performed using deep learning techniques. Faster R-CNN (Faster Region Based Convolutional Networks) Network has developed and 502 images in the study “Cup” data set has created. Some of this data set has used for testing and the other for training. After observing the ways in which the glass can be recognized and not recognized by conducting different experiments, suggestions have made on how to increase the accuracy prediction rate. The Python library Tkinter library has used when designing the interface. The image that is to be detected is taken into a frame after the operations done, and a photograph is recorded with the correct estimate of the percentage of the image. If the video is the image that will be detected, the video will be displayed on the screen, while the video will be played, and the web cam will instantly display the object in the image in the frame.
+
 In this study, which has performed using Object Detection API, we tried to find the epoch value that trains the model with different epoch values and makes the most accurate predictions. It has conducted using deep learning and Faster R-CNN on the data set generated over 18 separate experiments performed. In order to find the most successful prediction rate in the training process, experiments has conducted with different epoch numbers. A total of 100.000 Epoch's has achieved as a result of the education and the result of success is 0.97835 and loss ratio is 0.02165.
 
 Keywords: Faster R-CNN, Object detection, Object Detection API
+
+How to Cite
+
+•	IEEE: O. Yilmaz, H. Aydin, and A. Çeti̇nkaya, “Faster R-CNN Üzerinde Geliştirilen Model ile Object Detection Api Üzerinde Doğruluk Tahmini ve Analizi,” European Journal of Science and Technology, Dec. 2020, doi: 10.31590/ejosat.753896.
+
+•	APA: Yılmaz, O., Aydın, H., & Çetinkaya, A. (2020). Faster R-CNN Evrişimsel Sinir Ağı Üzerinde Geliştirilen Modelin Derin Öğrenme Yöntemleri ile Doğruluk Tahmini ve Analizi: Nesne Tespiti Uygulaması. Avrupa Bilim Ve Teknoloji Dergisi(20), 783-795. https://doi.org/10.31590/ejosat.753896
+
+•	MLA: Yılmaz, Okan, Hakan Aydın, and Ali Çetinkaya. "Faster R-CNN Evrişimsel sinir ağı üzerinde geliştirilen modelin derin öğrenme yöntemleri ile doğruluk tahmini ve analizi: Nesne Tespiti Uygulaması." Avrupa Bilim ve Teknoloji Dergisi 20 (2020): 783-795. 
+
+License:
+
+This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
 
 
